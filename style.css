@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    .poppins-regular {
+        font-family: "Poppins", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .poppins-medium {
+        font-family: "Poppins", serif;
+        font-weight: 500;
+        font-style: normal;
+    }
+
+    .poppins-bold {
+        font-family: "Poppins", serif;
+        font-weight: 700;
+        font-style: normal;
+    }
+
+}
+
+body {
+    background-image: url("https://www.escoladefeltro.com.br/wp-content/uploads/2021/09/sorteio-maquina_fundo.png")
+}
+
+
+
+img {
+    height: 130px;
+    width: 280px;
+
+}
+
+main {
+    display: block;
+    text-align: center;
+    margin-top: 150px;
+}
+
+h1 {
+    font-weight: 700px;
+    font-size: 90px;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+h3 {
+    font-size: 32px;
+    color: #ffffff;
+    margin-top: 60px;
+    font-weight: 50px;
+}
+
+input {
+    width: 230px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 5px;
+    border: none;
+    outline: none;
+    font-size: 23px;
+    font-weight: 700px;
+    padding-left: 10px;
+    background-color: silver;
+    color: #ffffff;
+    
+
+}
+
+button {
+    width: 250px;
+    height: 55px;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    border: none;
+    background: #AEC346;
+    font-size: 20px;
+    font-weight: 700px;
+    color:#ffffff;
+    cursor: pointer;
+    box-shadow: 0px, 18px, 40px rgba(174, 195, 70, 0.35);
+    
+
+
+}
+button:hover {
+    opacity: 0.9;
+    
+}
+button:active {
+    opacity: 0.8;
+}
+
+.min {
+    margin-right: 35px;
+}
