@@ -1,3 +1,5 @@
-<h2>Site de Sorteio</h2>
+<h3>Site de sorteio profissional online criado para sortear números aleatórios, utilizei as seguintes tecnologias: HTML, CSS, e Java Script. </h3>
 <br>
-<h4>Site proficional para sorteios online </h4>
+<br>
+<br>
+<img src="">
